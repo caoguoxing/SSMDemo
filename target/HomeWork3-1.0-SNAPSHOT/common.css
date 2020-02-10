@@ -1,0 +1,8 @@
+table input{
+    border: none;
+}
+#submitbtn{
+    background: deepskyblue;
+    color: white;
+    border-radius: 5px;
+}
